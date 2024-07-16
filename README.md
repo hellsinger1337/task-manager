@@ -28,3 +28,9 @@ API документация доступна по адресу `http://localhos
 ```sh
 php artisan l5-swagger:generate
 ```
+
+## Тестирование
+
+```sh
+php artisan test
+```
